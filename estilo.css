@@ -1,0 +1,105 @@
+@charset "utf-8";
+.img-fondo {
+    background-size: cover;
+    background-image: url(Imagenes/Logo.png);
+}
+.img-mia {
+    background-color: #EFE8C9;
+    color: #2A0D0D;
+}
+.titulo {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #46090A;
+    text-align: right;
+}
+
+body.madimi-one-regular {
+  font-family: "Madimi One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.titulo1 {
+    text-align: left;
+    font-weight: normal;
+    font-family: "Madimi One Regular";
+    color: #350F10;
+}
+
+.texto {
+    color: #320E0F;
+    text-align: right;
+    font-weight: normal;
+    text-indent: 0;
+}
+
+.negrilla {
+    color: #390C0D;
+}
+
+
+.mt-8 {
+}
+.bg-ani {
+    background-image: url(Imagenes/Fondo.png);
+    background-position: 0% 30%;
+    background-size: cover;
+}
+
+.texto1 {
+    text-align: left;
+    background-size: 0% auto;
+}
+.bg-fondo  {
+    background-color: #EFE8C9;
+}
+.bg-patron {
+    background-image: url(Imagenes/Patron.png);
+    background-size: cover;
+    background-position: -2% 0%;
+}
+
+
+.texto {
+    text-align: center;
+    background-color: #EFE8C9;
+}
+.img1 {
+    background-image: url(Imagenes/Parte%201.png);
+    background-size: cover;
+}
+.titulo2{
+  font-family: "Kanit", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.img-e {
+    background-image: url(Imagenes/Jarron%201.png);
+    background-size: cover;
+}
+.texto-card {
+    background-color: rgba(0,0,0,0.50);
+    color: rgba(255,255,255,1.00);
+}
+.img-r {
+    background-image: url(Imagenes/Jarron%202.png);
+}
+.img-a {
+    background-image: url(Imagenes/Jarron%203.png);
+}
+.bg-car {
+    background-color: #C59E7C;
+}
+.bg-jaguar {
+    background-image: url(Imagenes/Leon.png);
+    background-color: #EFE8C9;
+    background-repeat: no-repeat;
+    background-position: right 78%;
+    background-size: 70% auto;
+}
+.ej {
+    background-image: url(Imagenes/Copia%20de%2020082024-IMG_3669.jpg);
+}
